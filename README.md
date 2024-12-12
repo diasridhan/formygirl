@@ -1,6 +1,6 @@
 ## 🎉 Birthday Greeting Webpage 
 
-[Demo](https://fajarghifar.github.io/happybirthday/)
+(https://diasridhan.github.io/formygirl/)
 
 ## 🚀 How to Use
 
