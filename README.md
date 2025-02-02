@@ -33,6 +33,6 @@ If you have any ideas to make it more interesting, please submit a pull request 
 
 ### [MIT](LICENSE)
 
-> Github [@fajarghifar](https://github.com/diasridhan) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://instagram.com/diasridhan) &nbsp;&middot;&nbsp;
-> Linkedin [@fajarghifar](https://www.linkedin.com/in/diasridahn/)
+> Github [@fdiasridhan](https://github.com/diasridhan) &nbsp;&middot;&nbsp;
+> Instagram [@diasridhan](https://instagram.com/diasridhan) &nbsp;&middot;&nbsp;
+> Linkedin [@diasridhan](https://www.linkedin.com/in/diasridahn/)
